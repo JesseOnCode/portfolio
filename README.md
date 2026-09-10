@@ -1,15 +1,20 @@
 # Jesse Haapaniemi — Portfolio
 
-Ohjelmistokehittäjäopiskelija. Julkaistut työt ja yhteystiedot: [jessehaapaniemi.com](https://jessehaapaniemi.com)
+Julkaistu sivusto: [jessehaapaniemi.com](https://jessehaapaniemi.com)
 
 ![Kuvakaappaus portfolion etusivusta](assets/images/projects/portfolio.jpg)
 
-## Teknologiat
+## Sivusto
 
-- HTML
-- CSS
-- JavaScript
-- Web3Forms ja hCaptcha (yhteydenottolomake)
+Yksisivuinen portfolio, julkaistu webhotelliin. Sivulla on esittely, projektit, osaaminen, lyhyt about-osio ja yhteydenottolomake.
+
+Projektikorteissa on kuvakaappaus, live-demo ja linkki GitHub-repositorioon. Lomake käyttää Web3Formsia ja hCaptchaa.
+
+## Toteutus
+
+- HTML, CSS ja JavaScript, ilman ulkoisia UI-kirjastoja
+- Fontit, ikonit ja kuvat paikallisina tiedostoina
+- HTTPS, Content Security Policy ja turvaotsakkeet (`.htaccess`)
 
 ## Linkit
 
