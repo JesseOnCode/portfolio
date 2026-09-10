@@ -1,50 +1,17 @@
-# Jesse Haapaniemi - Portfolio
+# Jesse Haapaniemi — Portfolio
 
-Henkilökohtainen portfolio-sivusto jossa esittelen osaamiseni ja yhteystietoni.
+Ohjelmistokehittäjäopiskelija. Julkaistut työt ja yhteystiedot: [jessehaapaniemi.com](https://jessehaapaniemi.com)
 
-**Live Demo:** [jessehaapaniemi.com](https://jessehaapaniemi.com)
+![Kuvakaappaus portfolion etusivusta](assets/images/projects/portfolio.jpg)
 
 ## Teknologiat
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
-- Web3Forms (lomakkeet)
-- Typed.js (animaatiot)
+- Web3Forms ja hCaptcha (yhteydenottolomake)
 
-## Ominaisuudet
+## Linkit
 
-- Täysin responsiivinen design
-- Modernit animaatiot
-- Toimiva yhteystiedot-lomake
-- Osaamisen esittely
-
-## Rakenne
-```
-portfolio/
-├── index.html
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   ├── js/
-│   │   └── script.js
-│   └── images/
-├── .gitignore
-└── README.md
-```
-
-## Tietoturva
-
-- Content Security Policy (CSP) käytössä
-- rel="noopener noreferrer" kaikissa ulkoisissa linkeissä
-- Web3Forms API-avain on julkinen (tarkoituksella, rajoitettu vain sallittuihin domaineihin)
-
-## Yhteystiedot
-
-- **GitHub:** [@JesseOnCode](https://github.com/JesseOnCode)
-- **LinkedIn:** [Jesse Haapaniemi](https://www.linkedin.com/in/jesse-haapaniemi-13656b3a9/)
-- **Website:** [jessehaapaniemi.com](https://jessehaapaniemi.com)
-
-## Lisenssi
-
-MIT License - vapaa käyttöön ja muokkaukseen
+- Sivusto: [jessehaapaniemi.com](https://jessehaapaniemi.com)
+- LinkedIn: [Jesse Haapaniemi](https://www.linkedin.com/in/jesse-haapaniemi-13656b3a9/)
