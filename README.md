@@ -1,6 +1,6 @@
 # Jesse Haapaniemi - Portfolio
 
-Henkilökohtainen portfolio-sivusto jossa esittelen osaamiseni, projektini ja yhteystietoni.
+Henkilökohtainen portfolio-sivusto jossa esittelen osaamiseni ja yhteystietoni.
 
 **Live Demo:** [jessehaapaniemi.com](https://jessehaapaniemi.com)
 
@@ -17,7 +17,6 @@ Henkilökohtainen portfolio-sivusto jossa esittelen osaamiseni, projektini ja yh
 - Täysin responsiivinen design
 - Modernit animaatiot
 - Toimiva yhteystiedot-lomake
-- Projekti-esittelyt
 - Osaamisen esittely
 
 ## Rakenne

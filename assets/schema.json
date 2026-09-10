@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Jesse Haapaniemi",
+  "jobTitle": "Ohjelmistokehittäjäopiskelija",
+  "description": "Ohjelmistokehittäjäopiskelija. Valmistuu keväällä 2027. Projektit ja yhteystiedot.",
+  "url": "https://jessehaapaniemi.com/",
+  "image": "https://jessehaapaniemi.com/assets/images/profiilikuva.jpg",
+  "sameAs": [
+    "https://github.com/JesseOnCode",
+    "https://www.linkedin.com/in/jesse-haapaniemi-13656b3a9/"
+  ]
+}
