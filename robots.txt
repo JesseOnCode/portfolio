@@ -1,4 +1,9 @@
 User-agent: *
 Allow: /
 
+Disallow: /*.zip$
+Disallow: /barber-booking-system/
+Disallow: /fysiokunto/
+Disallow: /CHANGELOG.md
+
 Sitemap: https://jessehaapaniemi.com/sitemap.xml

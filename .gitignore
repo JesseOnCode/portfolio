@@ -14,7 +14,7 @@ Thumbs.db
 *.swo
 *~
 
-# Node modules (jos myöhemmin käytät)
+# Node modules 
 node_modules/
 npm-debug.log*
 
@@ -22,7 +22,7 @@ npm-debug.log*
 *.tmp
 *.log
 
-# Environment files (tärkeä lisäys!)
+# Environment files
 .env
 .env.local
 .env.production
